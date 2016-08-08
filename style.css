@@ -1,0 +1,403 @@
+
+
+#cc1 {
+  padding: 0 0 0 0;
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	min-width: 1100px;
+	height: 730px; 
+	background: url(img/01.jpg) center top;
+}
+
+#cc1-i {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1100px;
+  height: 730px; 
+}
+
+#cc2 {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  min-width: 1100px;
+  height: 1096px;
+  background: url(img/02.jpg) center top;
+}
+
+#cc3 {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  min-width: 1100px;
+  height: 773px;
+  background: url(img/03.jpg) center top;
+}
+
+#cc3-i {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1100px;
+  height: 773px;
+}
+
+#cc4 {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  min-width: 1100px;
+  height: 1011px;
+  background: url(img/04.jpg) center top;
+}
+
+#cc4-i {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1100px;
+  height: 1011px;
+}
+
+#cc5 {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  min-width: 1100px;
+  height: 1810px;
+  background: url(img/05.jpg) center top;
+}
+
+#cc5-i {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1100px;
+  height: 1810px;
+}
+
+#cc6 {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  min-width: 1100px;
+  height: 1388px;
+  background: url(img/06.jpg) center top;
+}
+
+#cc6-i {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1100px;
+  height: 1388px;
+}
+
+#cc7 {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  min-width: 1100px;
+  height: 869px; 
+  background: url(img/07.jpg) center top;
+}
+
+#cc7 -i{
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1100px;
+  height: 869px; 
+}
+
+#cc8 {
+    position: relative;
+	float:left;
+	width:100%;
+    background: #ffffff;
+}
+
+#cc8-i {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1001px;
+  height: 741px;
+  background: url(img5/form.jpg) center top no-repeat;
+}
+
+#cc9 {
+    position: relative;
+  float:left;
+  width:100%;
+    background: #ffffff;
+}
+
+#cc9-i {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 1001px;
+  height: 741px;
+  background: url(img5/thanks.jpg) center top no-repeat;
+}
+
+#cc10 {
+  padding: 0 0 0 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  min-width: 1100px;
+  height: 827px;
+  background: url(img/10.jpg) center top;
+}
+
+.order-btn-1 { 
+width: 260px;
+height: 210px;
+position: absolute;
+display: block;
+bottom: 29px;
+right: 30px;
+}
+
+.order-btn-2 { 
+width: 1020px;
+height: 520px;
+position: absolute;
+display: block;
+bottom: 0px;
+right: 30px;
+}
+
+.order-btn-3 { 
+width: 1020px;
+height: 80px;
+position: absolute;
+display: block;
+top: 0px;
+right: 30px;
+}
+
+.order-btn-4 { 
+width: 290px;
+height: 80px;
+position: absolute;
+display: block;
+top: 830px;
+right: 30px;
+}
+
+.order-btn-5 { 
+width: 290px;
+height: 80px;
+position: absolute;
+display: block;
+bottom: 50px;
+left: 30px;
+background: none;
+}
+
+.vid-btn-1 { 
+width: 520px;
+height: 370px;
+position: absolute;
+display: block;
+bottom: 109px;
+left: 30px;
+}
+
+.vid-btn-2 { 
+width: 520px;
+height: 300px;
+position: absolute;
+display: block;
+bottom: 140px;
+left: 30px;
+}
+
+
+.qty-hold {
+   width: 300px;
+  position: absolute;
+  top: 66px;
+  left: 614px;
+}
+
+.qty-hold input[type="radio"] {
+    display: none;
+}
+.qty-hold input[type="radio"]:checked + label {
+background: url(img/b.png) 275px 10px no-repeat;
+}
+
+.qty-hold label {
+   width: 300px;
+   height: 35px;
+   cursor: pointer;
+   float: left;
+}
+
+
+#write-hold {
+   width: 650px;
+   float: left;
+   position: absolute;
+   top: 265px;
+   left: 340px;
+}
+
+.line-one {
+   padding-right: 20px;
+   width: 270px;
+   height: 42px;
+   float: left;
+   line-height: 36px;
+   margin-right: 28px;
+   margin-bottom: 37px;
+   font-family: arial;
+   font-size: 14px;
+   background: none;
+   border: 0;
+   color: #484848;
+   font-weight: normal;
+}
+
+.message {
+   margin-right: 25px;
+   padding-top: 10px;
+   padding-left: 20px;
+   width: 272px;
+   height: 109px;
+   float: left;
+   font-weight: normal;
+   font-family: arial;
+   font-size: 14px;
+   line-height: 24px;
+   background: none;
+   border: 0;
+   color: #484848;
+}
+
+textarea { 
+    resize: none; 
+}
+
+.gonder {
+  width: 520px;
+  height: 90px;
+  border: 0;
+  position: absolute;
+  top: 337px;
+  left: 370px;
+  cursor: pointer;
+  background: none;
+}
+
+.siapris-form {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+
+.navbar {
+	min-width: 1100px;
+    width: 100%;
+    height: 60px;
+    background: url(img5/topareaa.jpg) top center;
+    z-index:3;
+    display:none;
+}
+
+.menu-holder {
+	margin: 0 auto;
+	width: 1100px;
+}
+
+.fixed {
+    display: block;
+    position:fixed;
+}
+
+.menu1 { 
+width: 280px;
+height: 70px;
+position: relative;
+display: block;
+
+float: left;
+}
+
+.menu2 { 
+width: 145px;
+height: 70px;
+position: relative;
+display: block;
+
+float: left;
+}
+
+.menu3 { 
+width: 140px;
+height: 70px;
+position: relative;
+display: block;
+
+float: left;
+}
+
+.menu4 { 
+width: 145px;
+height: 70px;
+position: relative;
+display: block;
+
+float: left;
+}
+
+.menu5 { 
+width: 150px;
+height: 70px;
+position: relative;
+display: block;
+
+float: left;
+}
+
+.menu6{ 
+width: 180px;
+height: 70px;
+position: relative;
+display: block;
+
+float: left;
+}
+
+
+
+.featherlight .featherlight-content {padding: 0;min-width: 440px;border: 0;width: 440px;}
+.formselect {font-family: 'Dosis', sans-serif;font-size: 15px;}
+.toparea {float: left;width: 100%;background-image: url(img5/topareaa.jpg);height:60px;background-repeat: no-repeat;background-position: center !important;display:none;}
+.is-sticky .toparea {display:block;}
+.sticky {left: 0;right: 0;}
+.maincount9{
+	float: left;
+    width: 100%;
+    background-image: url(img5/background6.jpg);
+    background-repeat: no-repeat;
+    background-position: center !important;
+}
+.lefto{
+	float:left;
+	width:33.3%;
+	height: 344px;
+}
