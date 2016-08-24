@@ -16,4 +16,7 @@ $db_conn = mysqli_connect($vt_sunucu, $vt_kullanici, $vt_parola, $vt_isim);
 
 //mysql_select_db($vt_isim, $db_conn);
 
+mysqli_set_charset($db_conn,"utf8");
+
+
 ?>
